@@ -2,7 +2,7 @@ package test;
 
 import java.math.BigDecimal;
 
-public class gotohell {
+public class test {
 	public static void main(String[] args) {
 		BigDecimal a = new BigDecimal(12);
 		BigDecimal b = new BigDecimal(-120);
